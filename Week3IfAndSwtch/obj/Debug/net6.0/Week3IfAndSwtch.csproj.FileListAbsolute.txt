@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\bin\Debug\net6.0\Week3IfAndSwtch.exe
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\bin\Debug\net6.0\Week3IfAndSwtch.deps.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\bin\Debug\net6.0\Week3IfAndSwtch.runtimeconfig.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\bin\Debug\net6.0\Week3IfAndSwtch.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\bin\Debug\net6.0\Week3IfAndSwtch.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\refint\Week3IfAndSwtch.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\Week3IfAndSwtch.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\Week3IfAndSwtch\obj\Debug\net6.0\ref\Week3IfAndSwtch.dll

@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.exe
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.deps.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.runtimeconfig.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\refint\SwitchDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\SwitchDayOfTheWeek\obj\Debug\net6.0\ref\SwitchDayOfTheWeek.dll

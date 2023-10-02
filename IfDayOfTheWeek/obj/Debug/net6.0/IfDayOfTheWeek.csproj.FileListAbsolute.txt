@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.exe
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.deps.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.runtimeconfig.json
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\refint\IfDayOfTheWeek.dll
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week3IfAndSwtch\IfDayOfTheWeek\obj\Debug\net6.0\ref\IfDayOfTheWeek.dll
